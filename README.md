@@ -1,2 +1,2 @@
 # Euler_solutions
-My solutions to https://projecteuler.net/
+My solutions to https://projecteuler.net/ !
