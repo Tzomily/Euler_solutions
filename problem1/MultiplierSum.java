@@ -12,7 +12,7 @@ public class MultiplierSum {
     }
 
     public static void main(String[] args){
-        int sum= SumofMultipliers();
+        int sum = SumofMultipliers();
         System.out.print(sum);
     }
     
